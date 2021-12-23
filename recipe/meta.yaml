@@ -1,5 +1,3 @@
-{% set reqfile = "requirements.txt" %}
-{% set reqsource = "dimcli.egg-info/requires.txt" %}
 {% set name = "dimcli" %}
 {% set version = "0.9.6" %}
 
